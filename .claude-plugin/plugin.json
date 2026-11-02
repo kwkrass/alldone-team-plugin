@@ -1,5 +1,6 @@
 {
   "name": "alldone-team",
+  "displayName": "alldone.team",
   "version": "0.2.0",
   "description": "Create narrated story videos with Story Builder, prepare job applications with Judy Job, and compare property investments with Property Screener from your alldone.team account.",
   "author": { "name": "alldone.team", "url": "https://alldone.team" },
