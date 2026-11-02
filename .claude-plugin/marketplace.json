@@ -1,0 +1,17 @@
+{
+  "name": "alldone",
+  "owner": { "name": "alldone.team", "url": "https://alldone.team" },
+  "metadata": {
+    "description": "Claude plugins for alldone.team."
+  },
+  "plugins": [
+    {
+      "name": "alldone-team",
+      "source": "./",
+      "description": "Story Builder, Judy Job, and Property Screener through your alldone.team account.",
+      "version": "0.2.0",
+      "category": "productivity",
+      "homepage": "https://alldone.team"
+    }
+  ]
+}

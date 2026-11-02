@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alldone-team": {
+      "type": "http",
+      "url": "https://alldone.team/mcp"
+    }
+  }
+}
